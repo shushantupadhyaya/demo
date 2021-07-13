@@ -1,2 +1,2 @@
 # First Demo 
-how to write in git and github.
+How to write in git and github!
